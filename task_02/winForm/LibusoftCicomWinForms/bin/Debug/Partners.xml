@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Partners>
+  <Partner>
+    <PartnerId>1</PartnerId>
+    <Name>Ivica</Name>
+    <OIB>31794169247</OIB>
+    <Contact>Majka</Contact>
+    <Description>Dečko</Description>
+  </Partner>
+  <Partner>
+    <PartnerId>4</PartnerId>
+    <Name>Marica</Name>
+    <OIB>31794169247</OIB>
+    <Contact>Otac</Contact>
+    <Description>Curica</Description>
+  </Partner>
+</Partners>

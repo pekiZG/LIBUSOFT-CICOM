@@ -1,0 +1,13 @@
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\LibusoftCicomWinForms.exe.config
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\LibusoftCicomWinForms.exe
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\LibusoftCicomWinForms.pdb
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\EntityFramework.dll
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\EntityFramework.xml
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\obj\Debug\LibusoftCicomWinForms.Form1.resources
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\obj\Debug\LibusoftCicomWinForms.Properties.Resources.resources
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\obj\Debug\LibusoftCicomWinForms.csproj.GenerateResource.Cache
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\obj\Debug\LibusoftCicomWinForms.exe
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\obj\Debug\LibusoftCicomWinForms.pdb
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\System.Data.SqlServerCe.dll
+c:\users\petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\Petar\documents\visual studio 2012\Projects\LibusoftCicomWinForms\LibusoftCicomWinForms\obj\Debug\LibusoftCicomWinForms.csprojResolveAssemblyReference.cache
