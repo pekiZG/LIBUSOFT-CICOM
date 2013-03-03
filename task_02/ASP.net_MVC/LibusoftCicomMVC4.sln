@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibusoftCicomMVC4", "LibusoftCicomMVC4\LibusoftCicomMVC4.csproj", "{59DE1AD8-F4A4-4645-B04E-15F05AC58F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibusoftCicomMVC4.Tests", "LibusoftCicomMVC4.Tests\LibusoftCicomMVC4.Tests.csproj", "{FB50139E-2537-48AC-AF3B-B85B5726FA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DE1AD8-F4A4-4645-B04E-15F05AC58F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DE1AD8-F4A4-4645-B04E-15F05AC58F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DE1AD8-F4A4-4645-B04E-15F05AC58F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DE1AD8-F4A4-4645-B04E-15F05AC58F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB50139E-2537-48AC-AF3B-B85B5726FA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB50139E-2537-48AC-AF3B-B85B5726FA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB50139E-2537-48AC-AF3B-B85B5726FA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB50139E-2537-48AC-AF3B-B85B5726FA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
